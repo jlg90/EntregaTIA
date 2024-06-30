@@ -1,0 +1,96 @@
+[Thu Jun 27 12:13:28 202] - name
+[Thu Jun 27 12:13:28 202] - depth 4
+[Thu Jun 27 12:13:35 202] - name
+[Thu Jun 27 12:13:35 202] - depth 4
+[Thu Jun 27 12:13:35 202] - vcf
+[Thu Jun 27 12:13:36 202] - new xxx
+[Thu Jun 27 12:13:36 202] - black JJJJ
+[Thu Jun 27 12:13:36 202] - next
+[Thu Jun 27 12:13:44 202] - new xxx
+[Thu Jun 27 12:13:44 202] - black JJJJ
+[Thu Jun 27 12:13:44 202] - white KJIL
+[Sun Jun 30 16:39:18 202] - name
+[Sun Jun 30 16:39:18 202] - depth 4
+[Sun Jun 30 16:39:25 202] - name
+[Sun Jun 30 16:39:25 202] - depth 4
+[Sun Jun 30 16:39:25 202] - vcf
+[Sun Jun 30 16:39:26 202] - new xxx
+[Sun Jun 30 16:39:26 202] - black JJJJ
+[Sun Jun 30 16:39:26 202] - next
+[Sun Jun 30 16:39:31 202] - new xxx
+[Sun Jun 30 16:39:31 202] - black JJJJ
+[Sun Jun 30 16:39:31 202] - white KJIL
+[Sun Jun 30 16:39:31 202] - black IJHJ
+[Sun Jun 30 16:39:31 202] - next
+[Sun Jun 30 16:39:40 202] - new xxx
+[Sun Jun 30 16:39:40 202] - black JJJJ
+[Sun Jun 30 16:39:40 202] - white KJIL
+[Sun Jun 30 16:39:40 202] - black IJHJ
+[Sun Jun 30 16:39:40 202] - white LJLI
+[Sun Jun 30 16:39:40 202] - black GJEJ
+[Sun Jun 30 16:39:40 202] - next
+[Sun Jun 30 16:39:48 202] - new xxx
+[Sun Jun 30 16:39:48 202] - black JJJJ
+[Sun Jun 30 16:39:48 202] - white KJIL
+[Sun Jun 30 16:39:48 202] - black IJHJ
+[Sun Jun 30 16:39:48 202] - white LJLI
+[Sun Jun 30 16:39:48 202] - black GJEJ
+[Sun Jun 30 16:39:48 202] - white NGFJ
+[Sun Jun 30 16:39:48 202] - black MHJK
+[Sun Jun 30 16:39:48 202] - next
+[Sun Jun 30 16:39:58 202] - new xxx
+[Sun Jun 30 16:39:58 202] - black JJJJ
+[Sun Jun 30 16:39:58 202] - white KJIL
+[Sun Jun 30 16:39:58 202] - black IJHJ
+[Sun Jun 30 16:39:58 202] - white LJLI
+[Sun Jun 30 16:39:58 202] - black GJEJ
+[Sun Jun 30 16:39:58 202] - white NGFJ
+[Sun Jun 30 16:39:58 202] - black MHJK
+[Sun Jun 30 16:39:58 202] - white GKLK
+[Sun Jun 30 16:39:58 202] - black LMKL
+[Sun Jun 30 16:39:58 202] - next
+[Sun Jun 30 17:20:26 202] - name
+[Sun Jun 30 17:20:26 202] - depth 4
+[Sun Jun 30 17:20:29 202] - name
+[Sun Jun 30 17:20:29 202] - depth 4
+[Sun Jun 30 17:20:29 202] - vcf
+[Sun Jun 30 17:20:29 202] - new xxx
+[Sun Jun 30 17:20:29 202] - black JJJJ
+[Sun Jun 30 17:20:29 202] - next
+[Sun Jun 30 17:20:40 202] - new xxx
+[Sun Jun 30 17:20:40 202] - black JJJJ
+[Sun Jun 30 17:20:40 202] - white LJKI
+[Sun Jun 30 17:20:40 202] - black KKII
+[Sun Jun 30 17:20:40 202] - next
+[Sun Jun 30 17:20:51 202] - new xxx
+[Sun Jun 30 17:20:51 202] - black JJJJ
+[Sun Jun 30 17:20:51 202] - white LJKI
+[Sun Jun 30 17:20:51 202] - black KKII
+[Sun Jun 30 17:20:51 202] - white KJJH
+[Sun Jun 30 17:20:51 202] - black LLHH
+[Sun Jun 30 17:20:51 202] - next
+[Sun Jun 30 17:23:03 202] - new black
+[Sun Jun 30 17:23:04 202] - next
+[Sun Jun 30 17:26:25 202] - new black
+[Sun Jun 30 17:26:27 202] - next
+[Sun Jun 30 17:26:36 202] - print
+[Sun Jun 30 17:26:39 202] - next
+[Sun Jun 30 17:26:48 202] - next
+[Sun Jun 30 17:26:57 202] - print
+[Sun Jun 30 17:27:06 202] - next
+[Sun Jun 30 17:27:17 202] - print
+[Sun Jun 30 17:27:21 202] - next
+[Sun Jun 30 17:27:31 202] - print
+[Sun Jun 30 17:27:41 202] - next
+[Sun Jun 30 17:27:50 202] - print
+[Sun Jun 30 17:28:00 202] - next
+[Sun Jun 30 17:28:09 202] - print
+[Sun Jun 30 17:28:21 202] - print
+[Sun Jun 30 17:28:23 202] - next
+[Sun Jun 30 17:28:32 202] - jprint
+[Sun Jun 30 17:28:33 202] - print
+[Sun Jun 30 17:28:39 202] - next
+[Sun Jun 30 17:28:45 202] - print
+[Sun Jun 30 17:28:47 202] - next
+[Sun Jun 30 17:34:45 202] - new black
+[Sun Jun 30 17:34:46 202] - next

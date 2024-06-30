@@ -1,0 +1,15 @@
+Connect6Engine/engine.log
+Connect6Engine/__pycache__/
+Connect6Engine/build
+Connect6Engine/dist
+Connect6Engine/main.spec
+Connect6Engine/tia-engine.log
+Connect6Engine/env/
+
+Connect6GUI/*.log
+Connect6GUI/*.pyc
+Connect6GUI/*~
+Connect6GUI/.DS_Store
+Connect6GUI/*.swp
+
+
