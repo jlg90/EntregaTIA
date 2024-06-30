@@ -1,7 +1,0 @@
-engine.log
-__pycache__/
-build
-dist
-main.spec
-tia-engine.log
-env/
